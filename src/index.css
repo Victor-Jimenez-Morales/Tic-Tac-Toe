@@ -119,7 +119,7 @@ body {
   cursor: pointer;
   font-size: 48px;
   transition: .2s all;
-  -webkit-tap-highlight-color: #FFB703;
+  -webkit-tap-highlight-color: #ffb8033e;
 }
 
 @media (hover: hover) and (pointer: fine) {
