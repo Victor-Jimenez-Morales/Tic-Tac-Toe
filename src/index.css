@@ -121,8 +121,10 @@ body {
   transition: .2s all;
 }
 
-.square:hover {
-  background-color: #FFB703;
+@media (hover: hover) and (pointer: fine) {
+  .square:hover {
+    background-color: #FFB703;
+  }
 }
 
 .x {
